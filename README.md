@@ -1,8 +1,11 @@
 SipaeBa - Simply, portable, and encrypted Backup
 ============
 
-This little backuptool shall be installed on a portable usb stick or harddrive, plugged in ony any computer to make a full and encrypted backup of all userdata.
+This little backup tool shall be installed on a portable USB stick or hard drive, plugged in on any computer to make a full encrypted backup of all user data of which is currently logged in.
 
+As an IT guy you know, persons never do regular backups of their private data. With this tool, you can easily make securely encrypted offside backups of your families, friends, and neighbor’s user data, encrypted by a password they can choose by themselves.
+
+It is based on 7-zip compression program.
 
 Usage
 -
@@ -14,9 +17,18 @@ Screenshots
 TBD...
 
 
-Installation
+Installation on Windows System
 -
 TBD...
+1. [Download 7-ZIP Portable](https://portableapps.com/de/apps/utilities/7-zip_portable) and extract it to your portable disk.
+2. Download and extract this tool too.
+3. You're already done!
+
+
+Why yet another Backup Tool?
+-
+TBD...
+I tested many tools. But I didn't found an easy and safe tool to just make backups - without installation, heavy configuring and tricks. And of course, it must be [free software](https://www.gnu.org/philosophy).
 
 
 License
